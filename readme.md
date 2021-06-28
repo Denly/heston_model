@@ -2,11 +2,9 @@
 
 
 
-Click the badge to launch binder to run the interactive jupyter 
+Click "launch binder" to run the interactive jupyter 
 
-```
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Denly/heston_model/HEAD)
-```
 
 # Ref
 
